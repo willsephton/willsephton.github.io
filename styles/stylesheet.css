@@ -12,3 +12,44 @@ body{
     width: 20em;
 
 }
+
+nav{
+    display: flex;
+    align-items: center;
+    border: 2px solid white;
+    background-color: rgb(3, 22, 3);
+
+}
+
+.navbar li{
+    font-size: 30px;
+    font-family: 'Kanit', sans-serif;
+    display: inline-block;
+    padding: 0px 20px;
+    color: white;
+
+}
+
+.navbar a{
+    color: white;
+}
+
+.navbar a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    color: white;
+}
+
+#contactButton{
+    background: green;
+    border: 0px;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+    padding: 12px 48px;
+    border-radius: 8px;
+    cursor: pointer;
+}
