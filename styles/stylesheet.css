@@ -53,3 +53,11 @@ nav{
     border-radius: 8px;
     cursor: pointer;
 }
+
+.controlpanel{
+    padding-top: 10vh;
+	display: flex; 
+    flex-flow: row wrap;
+    justify-content: space-around;
+
+}
