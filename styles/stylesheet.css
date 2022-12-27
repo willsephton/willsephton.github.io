@@ -61,3 +61,17 @@ nav{
     justify-content: space-around;
 
 }
+
+.content{
+    margin: auto;
+    width: 40%;
+    border: 5px solid blue;
+    margin-top: 40px;
+    text-align: center;
+
+
+}
+
+.center{
+    text-align: center;
+}
