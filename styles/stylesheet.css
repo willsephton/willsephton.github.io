@@ -18,7 +18,7 @@ body{
     float:right;
     width:25%;
     height:750px;
-    padding-right: 40em;
+    padding-right: 20em;
     padding-top: 7em;
 }
 
@@ -26,7 +26,7 @@ body{
     float:left; 
     width:25%;
     height:750px;
-    padding-left: 40em;
+    padding-left: 20em;
     padding-top: 7em;
 
 }
