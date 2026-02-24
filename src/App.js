@@ -10,7 +10,7 @@ import PrivacyPolicy from "./components/PrivacyPolicy";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
       <Routes>
         <Route path="/privacypolicy" element={<PrivacyPolicy />} />
         <Route
